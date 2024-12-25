@@ -1,4 +1,4 @@
-<img src="./prewiew.png" alt="project preview image">
+<img src="./preview.png" alt="project preview image">
 <b><b>Overview</b> <br></b> <br>
 The Metric/Imperial Unit Converter is a simple tool for converting between metric and imperial units. It supports conversions for Length, Volume, and Mass.
 
